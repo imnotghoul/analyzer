@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+numbers.txt
+prediction.txt
+prediction_check.txt
+state.json
+debug_page.txt
+
+*.zip
